@@ -8,9 +8,9 @@
 * Feature introduced in 8.1.01
 * Pre-requisite Properties
 
-     * marimba.subscription.usercontrolled.enabled = true
-     * marimba.tuner.display.nodisplay = false
-     * marimba.subscription.usercontrolled.stage = true
+     * marimba.subscription.usercontrolled.enabled=true
+     * marimba.tuner.display.nodisplay=false
+     * marimba.subscription.usercontrolled.stage=true
      * marimba.tuner.trayicon**.enabled=false
 
 ** - Multiple properties involved.  Please refer to BMC BladeLogic Client Automation Reference Guide for more details.
