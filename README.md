@@ -1,6 +1,6 @@
 # User Controlled Patching
 ## **Business Case**
-* Users can’t control the installation happens at their endpoint.
+* Users can’t control the installation start-time at their endpoint.
 * Allow User to control software installation at their machine by installing it at that moment or post-pone it till the next update schedule.
 * Avoid software downtime during working hours.
 ***
