@@ -74,4 +74,4 @@
 ## Reporting
  * Snapshot of Registry Entries
 
-![UserControlledPatching_RegistryEntries]UserControlledPatch/Files/UserControlledPatching_RegistryEntries.png).
+![UserControlledPatching_RegistryEntries](UserControlledPatch/Files/UserControlledPatching_RegistryEntries.png).
