@@ -17,17 +17,17 @@
 
 * On policy update, a balloon will be displayed
 
- ![BubbleViewSoftwareUpdates](https://github.com/vaguechannels/User-Controlled-Patching/blob/master/UserControlledPatch/Files/BubbleViewSoftwareUpdates.png).
+ ![BubbleViewSoftwareUpdates](UserControlledPatch/Files/BubbleViewSoftwareUpdates.png).
 
 * On right click on the UCS Icon and selecting View Software Details option, BMC Software Installation window will be displayed. 
 
-![BubbleNewSoftware](https://github.com/vaguechannels/User-Controlled-Patching/blob/master/UserControlledPatch/Files/BubbleNewSoftware.png).
+![BubbleNewSoftware](UserControlledPatch/Files/BubbleNewSoftware.png).
 
 * Software Installation Window
   * User can Click Install Now to install the packages immediately.
   * Choose Snooze to postpone the installation for the chosen time.
 
-![SoftwareInstallationWindow](https://github.com/vaguechannels/User-Controlled-Patching/blob/master/UserControlledPatch/Files/SoftwareInstallationWindow.png).
+![SoftwareInstallationWindow](UserControlledPatch/Files/SoftwareInstallationWindow.png).
 ***
 ## **Patching – User Controlled?**
 * Patch Reboots are User Controlled via CRS.
@@ -39,12 +39,12 @@
 ***
 
 ## **Architecture – Workflow (Initial Design)**
-![UserControlledPatching_InitialWorkflow](https://github.com/vaguechannels/User-Controlled-Patching/blob/master/UserControlledPatch/Files/UserControlledPatching_InitialWorkflow.png).
+![UserControlledPatching_InitialWorkflow](UserControlledPatch/Files/UserControlledPatching_InitialWorkflow.png).
 
 ***
 
 ## **Architecture – Workflow (Updated Design)**
-![UserControlledPatching_UpdatedWorkflow](https://github.com/vaguechannels/User-Controlled-Patching/blob/master/UserControlledPatch/Files/UserControlledPatching_UpdatedWorkflow.png).
+![UserControlledPatching_UpdatedWorkflow](UserControlledPatch/Files/UserControlledPatching_UpdatedWorkflow.png).
 
 ***
 
@@ -58,20 +58,20 @@
  * Debug Flag – Tuner Property
    * marimba.usercontrolledpatch.debug.enabled=true/false
 
-![UserControlledPatching_PackageEditorAddScript](https://github.com/vaguechannels/User-Controlled-Patching/blob/master/UserControlledPatch/Files/UserControlledPatching_PackageEditorAddScript.png).
+![UserControlledPatching_PackageEditorAddScript](UserControlledPatch/Files/UserControlledPatching_PackageEditorAddScript.png).
 ***
-![UserControlledPatching_PackageEditorChannelProperties](https://github.com/vaguechannels/User-Controlled-Patching/blob/master/UserControlledPatch/Files/UserControlledPatching_PackageEditorChannelProperties.png).
+![UserControlledPatching_PackageEditorChannelProperties](UserControlledPatch/Files/UserControlledPatching_PackageEditorChannelProperties.png).
 ***
-![UserControlledPatching_SetupPolicy](https://github.com/vaguechannels/User-Controlled-Patching/blob/master/UserControlledPatch/Files/UserControlledPatching_SetupPolicy.png).
+![UserControlledPatching_SetupPolicy](UserControlledPatch/Files/UserControlledPatching_SetupPolicy.png).
 ***
 ## **Demo**
-![BubbleViewSoftwareUpdates](https://github.com/vaguechannels/User-Controlled-Patching/blob/master/UserControlledPatch/Files/BubbleViewSoftwareUpdates.png).
+![BubbleViewSoftwareUpdates](UserControlledPatch/Files/BubbleViewSoftwareUpdates.png).
 
-![BubbleNewSoftware](https://github.com/vaguechannels/User-Controlled-Patching/blob/master/UserControlledPatch/Files/BubbleNewSoftware.png).
+![BubbleNewSoftware](UserControlledPatch/Files/BubbleNewSoftware.png).
 
-![UserControlledPatching_DemoSoftwareInstallationWindow](https://github.com/vaguechannels/User-Controlled-Patching/blob/master/UserControlledPatch/Files/UserControlledPatching_DemoSoftwareInstallationWindow.png).
+![UserControlledPatching_DemoSoftwareInstallationWindow](UserControlledPatch/Files/UserControlledPatching_DemoSoftwareInstallationWindow.png).
 ***
 ## Reporting
  * Snapshot of Registry Entries
 
-![UserControlledPatching_RegistryEntries](https://github.com/vaguechannels/User-Controlled-Patching/blob/master/UserControlledPatch/Files/UserControlledPatching_RegistryEntries.png).
+![UserControlledPatching_RegistryEntries]UserControlledPatch/Files/UserControlledPatching_RegistryEntries.png).
